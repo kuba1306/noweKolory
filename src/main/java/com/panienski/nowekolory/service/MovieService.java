@@ -14,8 +14,6 @@ public class MovieService {
 
     private final MovieClient movieClient;
 
-
-
     public MovieDto getMovie() {
         String response = movieClient.getMovieById(5);
         log.info(response);
