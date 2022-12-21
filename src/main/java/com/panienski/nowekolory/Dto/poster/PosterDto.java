@@ -1,2 +1,6 @@
-package com.panienski.nowekolory.Dto.poster;public class PosterDto {
+package com.panienski.nowekolory.Dto.poster;
+
+import javax.swing.*;
+
+public class PosterDto {
 }
